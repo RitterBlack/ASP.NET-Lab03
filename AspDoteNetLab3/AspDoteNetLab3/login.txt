@@ -1,0 +1,7 @@
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\rtbla\Desktop\универ\2 курс\2 семестр\ASP\Lab03\AspDotNetLab3\AspDoteNetLab3
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\rtbla\Desktop\универ\2 курс\2 семестр\ASP\Lab03\AspDotNetLab3\AspDoteNetLab3
+  15.07.2022 13:59:27 /sdadas/dsadsad/fadsfas
